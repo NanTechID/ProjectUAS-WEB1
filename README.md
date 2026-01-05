@@ -25,7 +25,7 @@ pembuatan dan penyebaran undangan secara online.
 -   PHP, MySQL
 -   Vercel
 
-## ▶️ Cara Menjalankan
+## ▶️ Cara download diteminal
 
 ``` bash
 git clone https://github.com/NanTechID/ProjectUAS-WEB1.git
