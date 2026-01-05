@@ -6,7 +6,7 @@ membuat dan mengirim undangan pernikahan secara digital. Dengan aplikasi
 ini, pengguna dapat menghemat biaya pencetakan undangan fisik serta
 mengelola daftar tamu dengan lebih efisien.
 
-## 📌 Shiwcase
+## 📌 Sh0wcase
 <img width="747" height="1354" alt="image" src="https://github.com/user-attachments/assets/78dacb25-ed30-4ee3-bd84-8ac962a07f9f" />
 <br>
 <img width="2517" height="1341" alt="image" src="https://github.com/user-attachments/assets/e602e749-c240-47d9-b31c-f4102115e75c" />
